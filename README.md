@@ -1,2 +1,2 @@
 # Análise de Dados com Pandas
-Foram feitas algumas análises e visualização de dados da planilha Adventure Works disponibilizada pela Microsoft
+Foram feitas, com auxílio da biblioteca Pandas, algumas análises e visualizações de dados da planilha "Adventure Works" disponibilizada pela Microsoft.
